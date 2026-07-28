@@ -83,4 +83,4 @@ python main.py
 Government Women Engineering College, Ajmer
 
 **TenderMind AI**  
-*Empowering Businesses. Supporting Officers. Building for Good.
+*Empowering Businesses. Supporting Officers. Building for Good.*
