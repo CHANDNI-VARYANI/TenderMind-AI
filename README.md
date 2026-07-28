@@ -197,15 +197,27 @@ TenderMind AI helps organizations by
 
 ```text
 TenderMind-AI
+TenderMind-AI
 │
-├── assets
-├── backend
-├── frontend
-├── docs
-├── datasets
-├── demo
+├── backend/
+├── frontend/
+├── assets/
+├── kiro/
+│   ├── requirements.md
+│   ├── design.md
+│   ├── tasks.md
+│   ├── architecture.md
+│   ├── workflow.md
+│   ├── er-diagram.md
+│
+├── demo/
+│   ├── prototype-link.md
+│   ├── demo-video-link.md
+│   └── pitch.md
+│
 ├── README.md
-└── LICENSE
+├── LICENSE
+└── .gitignore
 ```
 
 ---
