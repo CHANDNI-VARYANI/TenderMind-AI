@@ -5,7 +5,7 @@ Welcome to the live prototype of **TenderMind AI**, an AI-Powered Procurement In
 ## 🌐 Live Demo
 
 > **Prototype Link:**  
-> *(Paste your prototype URL here)*
+> *(https://huggingface.co/spaces/gargi-14/TenderMind-AI)*
 
 ---
 
