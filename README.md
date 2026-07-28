@@ -246,7 +246,7 @@ Give this repository a ⭐ and support our mission of building transparent and i
 
 <div align="left">
 
-<img src="assets/TEAM LOGO.png" width="40"/>
+<img src="assets/TEAM LOGO.jpg" width="40"/>
 
 ## ❤️ Team Teen Titans:- CHANDNI VARYANI AND GARGI NAROOKA
 
