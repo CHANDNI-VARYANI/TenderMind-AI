@@ -289,7 +289,7 @@ These diagrams illustrate the complete system—from document upload to AI-power
 
 Experience TenderMind AI in action through our interactive prototype.
 
-🔗 **Prototype:** *(Add your prototype link here)*
+🔗 **Prototype:** *(https://huggingface.co/spaces/gargi-14/TenderMind-AI)*
 
 ---
 
@@ -298,7 +298,7 @@ Experience TenderMind AI in action through our interactive prototype.
 
 Watch our complete project presentation to understand the problem, solution, architecture, and vision behind TenderMind AI.
 
-▶️ **TENDERMIND AI ONE SHOT:** *(Add your video link here)*
+▶️ **TENDERMIND AI ONE SHOT:** *(https://drive.google.com/file/d/1W-eC3rL4wizbKuA0PkJjaOcWiK_bJZJP/view?usp=drivesdk)*
 
 ---
 
