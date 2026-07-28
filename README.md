@@ -30,18 +30,6 @@ TenderMind AI follows a secure, modular AI pipeline designed for defence procure
 
 ---
 
-## ✨ Key Highlights
-
-- 🤖 AI Orchestrator powered by **Ollama (Self-Hosted)**
-- 📄 OCR + NLP based document understanding
-- ✅ Rule-based eligibility verification
-- 🛡️ Explainable AI with Human-in-the-Loop
-- 🔒 Immutable Audit Trail & Cryptographic Logging
-- ☁️ Government-ready deployment architecture
-
----
-<div align="center">
-
 # 🚀 Why TenderMind AI?
 
 Government procurement is one of the largest public spending ecosystems.
@@ -62,19 +50,6 @@ Yet procurement officers still spend **days manually verifying**
 - Eligibility Criteria
 - Certificates
 - Financial Documents
-
-TenderMind AI transforms this into a process that is
-
-⚡ Faster
-
-✅ Fairer
-
-🔍 Explainable
-
-🔒 Secure
-
-👨‍💼 Human Controlled
-
 
 # ✨ Key Highlights
 
@@ -153,7 +128,6 @@ Evaluation Report
 
 # 🛠️ Technology Stack
 
-<p align="center">
 <img src="assets/techstack.png"/>
 </p>
 
@@ -267,8 +241,6 @@ We sincerely thank everyone who guided and validated this project, especially th
 Give this repository a ⭐ and support our mission of building transparent and intelligent public procurement.
 
 ---
-
-<div align="center">
 
 # ❤️ Team Teen Titans
 
