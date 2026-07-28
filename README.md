@@ -128,7 +128,7 @@ Evaluation Report
 
 # 🛠️ Technology Stack
 
-<img src="assets/techstack.png"/>
+<img src="assets/techstack.png.jpeg"/>
 </p>
 
 ---
