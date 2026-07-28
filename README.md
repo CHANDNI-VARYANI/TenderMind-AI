@@ -25,7 +25,7 @@ Secure • Explainable • Self-Hosted • Government Ready
 TenderMind AI follows a secure, modular AI pipeline designed for defence procurement.
 
 <p align="center">
-  <img src="images/system_architecture.png" width="100%">
+  <img src="assets/Architecture.png" width="100%">
 </p>
 
 ---
