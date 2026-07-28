@@ -244,10 +244,6 @@ Give this repository a ⭐ and support our mission of building transparent and i
 
 ---
 
-<div align="center">
-
-<img src="assets/TEAM LOGO.jpg" width="90"/>
-
 ## 🤖 Built with AWS Kiro
 
 TenderMind AI was designed using **AWS Kiro**, an **agentic Integrated Development Environment (IDE)** built on **Visual Studio Code**.
@@ -277,11 +273,17 @@ Explore the engineering behind TenderMind AI through our technical documentation
 
 These diagrams illustrate the complete system—from document upload to AI-powered evaluation and report generation.
 
+
+---
+
+
 ## 🎥 Live Prototype
 
 Experience TenderMind AI in action through our interactive prototype.
 
 🔗 **Prototype:** *(Add your prototype link here)*
+
+---
 
 ## 🎬 Project Pitch
 
@@ -289,6 +291,12 @@ Watch our complete project presentation to understand the problem, solution, arc
 
 ▶️ **TENDERMIND AI ONE SHOT:** *(Add your video link here)*
 
+---
+
+<div align="center">
+
+<img src="assets/TEAM LOGO.jpg" width="90"/>
+---
 ## ❤️ Team Teen Titans:- Chandni Varyani and Gargi Narooka
 
 Building innovative AI solutions for real-world public sector challenges.
