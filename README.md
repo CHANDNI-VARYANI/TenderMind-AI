@@ -242,12 +242,17 @@ Give this repository a ⭐ and support our mission of building transparent and i
 
 ---
 
-# ❤️ Team Teen Titans
-<img src="assets/TEAM LOGO.jpg"/>
-</p>
-### **TenderMind AI**
+---
 
-### *Empowering Businesses. Supporting Officers. Building for Good.*
+<div align="left">
+
+<img src="assets/logo.png" width="40"/>
+
+## ❤️ Team Teen Titans:- CHANDNI VARYANI AND GARGI NAROOKA
+
+Building innovative AI solutions for real-world public sector challenges.
+
+⭐ If you found this project interesting, consider giving this repository a Star!
 
 **Made with ❤️ by Team Teen Titans**
 
