@@ -15,7 +15,7 @@ This demonstration showcases the complete tender upload workflow, where procurem
 - ✅ Eligibility Criteria Extraction
 
 🎥 **Screen Recording Of Tender Upload:**  
-*(Add Tender Upload video link here)*
+*(https://drive.google.com/file/d/1ZoI0u6e1bG86xHJrMEFBMk-2vMQFwA1t/view?usp=drivesdk)*
 
 ---
 
@@ -33,4 +33,4 @@ This demonstration showcases how TenderMind AI evaluates bidder submissions agai
 
 
 🎥 **Screen Recording Of Bidder Evaluation:**  
-*(Add Bidder Evaluation Window video link here)*
+*(https://drive.google.com/file/d/168aCi3nDimnMugH4jozpZ7O9SHsFgLxz/view?usp=drivesdk)*
