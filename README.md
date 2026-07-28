@@ -248,7 +248,7 @@ Give this repository a ⭐ and support our mission of building transparent and i
 
 <img src="assets/TEAM LOGO.jpg" width="90"/>
 
-## ❤️ Team Teen Titans:- CHANDNI VARYANI AND GARGI NAROOKA
+## ❤️ Team Teen Titans:- Chandni Varyani AND Gargi Narooka
 
 Building innovative AI solutions for real-world public sector challenges.
 
