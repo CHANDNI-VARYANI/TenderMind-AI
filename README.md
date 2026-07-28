@@ -266,6 +266,8 @@ This includes:
 - 🗄️ ER Diagram
 - 📚 Technical Documentation
 
+---
+
 ## 🏗️ Architecture & Design
 
 Explore the engineering behind TenderMind AI through our technical documentation.
@@ -291,13 +293,13 @@ Experience TenderMind AI in action through our interactive prototype.
 
 ---
 
+
 ## 🎬 Project Pitch
 
 Watch our complete project presentation to understand the problem, solution, architecture, and vision behind TenderMind AI.
 
 ▶️ **TENDERMIND AI ONE SHOT:** *(Add your video link here)*
 
----
 ---
 
 # ⭐ If you like this project
@@ -310,7 +312,7 @@ Give this repository a ⭐ and support our mission of building transparent and i
 
 <img src="assets/TEAM LOGO.jpg" width="90"/>
 
----
+
 
 ❤️ Team Teen Titans:- Chandni Varyani and Gargi Narooka
 
@@ -321,3 +323,5 @@ Building innovative AI solutions for real-world public sector challenges.
 **Made with ❤️ by Team Teen Titans**
 
 </div>
+
+---
