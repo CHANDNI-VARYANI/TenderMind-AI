@@ -212,8 +212,9 @@ TenderMind-AI
 │
 ├── demo/
 │   ├── prototype-link.md
-│   ├── demo-video-link.md
-│   └── pitch.md
+│   ├── live-recording.md
+│   ├── video-pitch.md
+│   └── README.md
 │
 ├── README.md
 ├── LICENSE
