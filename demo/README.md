@@ -11,7 +11,7 @@ This section showcases the platform's user interface, core workflows, and AI-pow
 Explore the interactive prototype of TenderMind AI and experience the complete procurement workflow.
 
 🔗 **Prototype:**  
-*(Add your prototype link here)*
+*(https://huggingface.co/spaces/gargi-14/TenderMind-AI)*
 
 ---
 
@@ -32,7 +32,7 @@ This demonstration showcases the complete tender upload workflow, where procurem
 - ✅ Eligibility Criteria Extraction
 
 🎥 **Screen Recording:**  
-*(Add Tender Upload video link here)*
+*(https://drive.google.com/file/d/1ZoI0u6e1bG86xHJrMEFBMk-2vMQFwA1t/view?usp=drivesdk)*
 
 ---
 
@@ -49,7 +49,7 @@ This demonstration showcases how TenderMind AI evaluates bidder submissions agai
 - 📋 Explainable Evaluation Report Generation
 
 🎥 **Screen Recording:**  
-*(Add Bidder Evaluation video link here)*
+*(https://drive.google.com/file/d/168aCi3nDimnMugH4jozpZ7O9SHsFgLxz/view?usp=drivesdk)*
 
 ---
 
@@ -68,7 +68,7 @@ The presentation covers:
 - 🌍 Future Vision
 
 ▶️ **Project Pitch:**  
-*(Add your video pitch link here)*
+*(https://drive.google.com/file/d/1W-eC3rL4wizbKuA0PkJjaOcWiK_bJZJP/view?usp=drivesdk)*
 
 ---
 
