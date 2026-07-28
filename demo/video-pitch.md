@@ -4,8 +4,8 @@ Watch our complete project presentation to understand the vision, problem statem
 
 ## ▶️ Video Pitch
 
-> **Presentation Link:**  
-> *(Paste your YouTube/Drive link here)*
+> **Video Presentation Link:**  
+> *(https://drive.google.com/file/d/1W-eC3rL4wizbKuA0PkJjaOcWiK_bJZJP/view?usp=drivesdk)*
 
 ---
 
