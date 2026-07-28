@@ -243,9 +243,8 @@ Give this repository a ⭐ and support our mission of building transparent and i
 ---
 
 # ❤️ Team Teen Titans
-
-### Government Women Engineering College, Ajmer
-
+<img src="assets/TEAM LOGO.jpg"/>
+</p>
 ### **TenderMind AI**
 
 ### *Empowering Businesses. Supporting Officers. Building for Good.*
